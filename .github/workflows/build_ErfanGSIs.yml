@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/20.5.29/miui_MIMAX3_20.5.29_587fb843e5_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: download.h2os.com/OnePlus7T/OBT/OnePlus7THydrogen_13.X.05_OTA_005_all_2005160309_73c7abb815654941.zip
+  ROM_NAME: h2os
   TZ: Asia/Shanghai
 
 jobs:
